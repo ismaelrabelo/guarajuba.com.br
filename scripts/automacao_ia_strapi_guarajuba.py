@@ -1,0 +1,1 @@
+# Script Python de automação com OpenAI + Strapi
